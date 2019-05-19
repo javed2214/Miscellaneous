@@ -2,6 +2,7 @@
 // Two Numbers 'n' and 'm' are Given.
 // The Task is to Convert 'n' to 'm' in Minimum Number of Steps.
 // Either you can Multiply 'n' by 2 or Subtract 1 from 'n'
+// https://codeforces.com/contest/520/problem/B
 
 #include<bits/stdc++.h>
 using namespace std;
